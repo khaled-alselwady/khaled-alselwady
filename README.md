@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45px">, I'm Khaled</h1>
 <h3 align="center">A Passionate programmer committed to continuous learning</h3>
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+<img align="right" alt="Coding" width="335" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-khaled-yousef&label=Profile%20views&color=0e75b6&style=flat" alt="dev-khaled-yousef" /> </p>
 
 - 🔭 I’m currently working on **Hotel Management System**
 
-- 🌱 I’m currently learning **.NET Framework , T-SQL , OOP , DS and Algos**
+- 🌱 I’m currently learning **.NET Framework** , **T-SQL** , **OOP** , **DS and Algos**
 
 - 📫 How to reach me **khalidsliman2014@gmail.com**
 
