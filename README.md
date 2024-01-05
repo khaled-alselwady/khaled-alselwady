@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate programmer committed to continuous learning</h3>
 <img align="right" alt="Coding" width="335" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-khaled-yousef&label=Profile%20views&color=0e75b6&style=flat" alt="dev-khaled-yousef" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-khaled-yousef&label=Profile%20views&color=4DC81F&style=flat" alt="dev-khaled-yousef" /> </p>
 
 - 🔭 I’m currently working on **Hotel Management System**
 
@@ -22,10 +22,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-khaled-yousef&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&border_radius=12.7" alt="dev-khaled-yousef" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-khaled-yousef&show_icons=true&locale=en&theme=chartreuse-dark&border_radius=12.7" alt="dev-khaled-yousef" /></p>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dev-khaled-yousef&theme=chartreuse-dark&border_radius=12.7" alt="GitHub Streak" /></a>
-
-
+<div>
+  <p style="display: inline-block; vertical-align: middle;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=dev-khaled-yousef&show_icons=true&locale=en&theme=chartreuse-dark&border_radius=12.7" alt="dev-khaled-yousef" />
+  </p>
+  <p style="display: inline-block; vertical-align: middle;">
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=dev-khaled-yousef&theme=chartreuse-dark&border_radius=12.7" alt="GitHub Streak" />
+  </p>
+</div>
