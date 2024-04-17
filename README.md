@@ -26,11 +26,11 @@
 <div>
 
   <p style="display: inline-block; vertical-align: middle;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=dev-khaled-yousef&show_icons=true&locale=en&theme=chartreuse-dark&border_radius=12.7" alt="dev-khaled-yousef" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=dev-khaled-yousef&show_icons=true&locale=en&theme=react&border_radius=12.7" alt="dev-khaled-yousef" />
   </p>
   
-  <p style="display: inline-block; vertical-align: middle;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-khaled-yousef&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&border_radius=12.7" alt="dev-khaled-yousef" />
+  <p style="display: inline-block; text-position: middle;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-khaled-yousef&show_icons=true&locale=en&layout=compact&theme=react&border_radius=12.7" alt="dev-khaled-yousef" />
   </p>
 
 </div>
@@ -38,8 +38,7 @@
 <br>
 <br>
 <br>
-<br>
 <br><br><br><br><br><br>
   <p>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=dev-khaled-yousef&theme=chartreuse-dark&border_radius=12.7" alt="GitHub Streak" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=dev-khaled-yousef&theme=react&border_radius=12.7" alt="GitHub Streak" />
   </p>
