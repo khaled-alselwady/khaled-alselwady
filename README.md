@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Study Center Management System](https://github.com/dev-khaled-yousef/study-center-management-system)
 
-- 🌱 I’m currently learning **.NET Framework** , **T-SQL** , **OOP** , **DS and Algos**
+- 🌱 I’m currently learning **.NET Core** , **Web development** , **T-SQL** , **OOP** , **DS and Algos**
 
 - 📫 How to reach me **khalidsliman2014@gmail.com** 
 
