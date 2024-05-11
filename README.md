@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-khaled-yousef&label=Profile%20views&color=4DC81F&style=flat" alt="dev-khaled-yousef" /> </p>
 
-- 🔭 I’m currently working on [Study Center Management System](https://github.com/dev-khaled-yousef/study-center-management-system)
+- 🔭 I’m currently working on a [Chat App](https://github.com/dev-khaled-yousef/chat-app)
 
 - 🌱 I’m currently learning **.NET Core** , **Web development** , **T-SQL** , **OOP** , **DS and Algos**
 
