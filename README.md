@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-khaled-yousef&label=Profile%20views&color=4DC81F&style=flat" alt="dev-khaled-yousef" /> </p>
 
-- 🔭 I’m currently working on a <a href="https://github.com/dev-khaled-yousef/chat-app" style="text-decoration: none;">Chat App</a>
+- 🔭 I’m currently working on a <a href="https://github.com/dev-khaled-yousef/chat-app" style="text-decoration: none;">Chat App </a>
 
 - 🌱 I’m currently learning **.NET Core** , **Web development** , **T-SQL** , **OOP** , **DS and Algos**
 
