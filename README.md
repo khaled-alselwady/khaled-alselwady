@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a <a href="https://github.com/dev-khaled-yousef/chat-app" style="text-decoration: none;">Chat App </a>
 
-- 🌱 I’m currently learning **.NET Core** , **Web development** , **T-SQL** , **OOP** , **DS and Algos**
+- 🌱 I’m currently learning **.NET** , **EF Core** , **Web development** , **T-SQL** , **OOP** , **DS and Algos**
 
 - 📫 How to reach me **khalidsliman2014@gmail.com** 
 
