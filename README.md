@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on an <a href="https://github.com/dev-khaled-yousef/ecommerce-website" style="text-decoration: none;">Ecommerce Website</a>
 
-- 🌱 I’m currently learning **RESTful API** , **Angular** , **T-SQL** , **OOP** , **DS and Algos**
+- 🌱 I’m currently learning **RESTful API** , **JS** , **Angular** , **T-SQL** , **OOP** , **DS and Algos** 
 
 - 📫 How to reach me **khalidsliman2014@gmail.com** 
 
