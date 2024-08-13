@@ -12,11 +12,25 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dev-khaled-yousef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled-yousef-164299275" height="30" width="40" /></a>
-<a href="https://www.facebook.com/dev.khaled.yousef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="k2321" height="30" width="40" /></a>
-<a href="https://instagram.com/dev_khaled_yousef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_khaled_yousef" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCs_9r81mTatSqiLXbDx317Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="khaled al-selwady" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dev-khaled-yousef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev-khaled-yousef" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dev-khaled-yousef" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled-yousef-164299275" height="30" width="40" />
+</a>
+  
+<a href="https://www.facebook.com/dev.khaled.yousef" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="k2321" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/dev_khaled_yousef" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_khaled_yousef" height="30" width="40" />
+</a>
+
+<a href="https://www.youtube.com/channel/UCs_9r81mTatSqiLXbDx317Q" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="khaled al-selwady" height="30" width="40" />
+</a>
+
+<a href="https://www.leetcode.com/dev-khaled-yousef" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev-khaled-yousef" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -55,10 +69,6 @@
 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.techwell.com/sites/default/files/stories/images/cropped_teasers/Beth%20Romanik/2019/node-js-tutorial.png" alt="nodejs" width="40" height="40"/>
   </a>
   
   <a href="https://angular.io" target="_blank" rel="noreferrer">
