@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-khaled-yousef&label=Profile%20views&color=4DC81F&style=flat" alt="dev-khaled-yousef" /> </p>
 
-- 🔭 I’m currently working on an <a href="https://github.com/dev-khaled-yousef/tasks-list" style="text-decoration: none;">Tasks List</a>
+- 🔭 I’m currently working on an <a href="https://github.com/dev-khaled-yousef/tasks-list" style="text-decoration: none;">Todo List</a>
 
 - 🌱 I’m currently learning **RESTful API**, **Angular**, **EF Core**, **T-SQL**, **OOP**, **DS and Algos** 
 
