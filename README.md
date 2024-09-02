@@ -2,9 +2,9 @@
 <h3 align="center">A Passionate programmer committed to continuous learning</h3>
 <img align="right" alt="Coding" width="335" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-khaled-yousef&label=Profile%20views&color=4DC81F&style=flat" alt="dev-khaled-yousef" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled-alselwady&label=Profile%20views&color=4DC81F&style=flat" alt="khaled-alselwady" /> </p>
 
-- 🔭 I’m currently working on an <a href="https://github.com/dev-khaled-yousef/task-mate" style="text-decoration: none;">Task Mate</a>
+- 🔭 I’m currently working on an <a href="https://github.com/khaled-alselwady/task-mate" style="text-decoration: none;">Task Mate</a>
 
 - 🌱 I’m currently learning **RESTful API**, **Angular**, **EF Core**, **T-SQL**, **OOP**, **DS and Algos** 
 
@@ -12,13 +12,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dev-khaled-yousef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled-yousef-164299275" height="30" width="40" /></a>
-<a href="https://www.facebook.com/dev.khaled.yousef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="k2321" height="30" width="40" /></a>
-<a href="https://instagram.com/dev_khaled_yousef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_khaled_yousef" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khaled-alselwady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled-yousef-164299275" height="30" width="40" /></a>
+<a href="https://www.facebook.com/khalid.alselwady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="k2321" height="30" width="40" /></a>
+<a href="https://instagram.com/khaled.alselwady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_khaled_yousef" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCs_9r81mTatSqiLXbDx317Q" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="khaled al-selwady" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dev-khaled-yousef" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev-khaled-yousef" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/khaled-alselwady" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khaled-alselwady" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,11 +39,11 @@
 <br>
 <div>
   <p style="display: inline-block; vertical-align: middle;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=dev-khaled-yousef&show_icons=true&locale=en&theme=react&border_radius=12.7" alt="dev-khaled-yousef" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=khaled-alselwady&show_icons=true&locale=en&theme=react&border_radius=12.7" alt="khaled-alselwady" />
   </p>
   
   <p style="display: inline-block; text-position: middle;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-khaled-yousef&show_icons=true&locale=en&layout=compact&theme=react&border_radius=12.7" alt="dev-khaled-yousef" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-alselwady&show_icons=true&locale=en&layout=compact&theme=react&border_radius=12.7" alt="khaled-alselwady" />
   </p>
 
 </div>
@@ -54,5 +54,5 @@
 <br>
 <br><br><br><br><br><br>
   <p>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=dev-khaled-yousef&theme=react&border_radius=12.7" alt="GitHub Streak" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=khaled-alselwady&theme=react&border_radius=12.7" alt="GitHub Streak" />
   </p>
