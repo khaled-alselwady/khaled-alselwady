@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on an <a href="https://github.com/khaled-alselwady/web-bank-system" style="text-decoration: none;">Web Bank System</a>
 
-- 🌱 I’m currently learning **RESTful API**, **Angular**, **EF Core**, **T-SQL**, **OOP**, **DS and Algos** 
+- 🌱 I’m currently learning **RESTful API**, **Angular**, **EF**, **T-SQL**, **OOP**, **DS and Algos** 
 
 - 📫 How to reach me **khalidsliman2014@gmail.com** 
 
